@@ -1,0 +1,11 @@
+{
+  "name": "chapa-unofficial",
+  "version": "1.0.0",
+  "description": "Unofficial npm package of chapa payment gateway.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
